@@ -1,0 +1,31 @@
+# Binaries and compiled files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Firebase Credentials
+firebase-key.json
+
+# Environment variables
+.env
+.env.*
+
+# External dependencies
+vendor/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
